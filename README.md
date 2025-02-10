@@ -15,6 +15,5 @@ This web application is designed to assist in diagnosing knee osteoarthritis by 
 To access the Google Drive image repository, click on the provided link above. For using the diagnostic tool, simply visit our web application and follow the on-screen instructions.
 
 ## Support
-If you have any questions, feedback, or issues related to the web demo, please feel free to contact us at [email@example.com].
-
+If you have any questions, feedback, or issues related to the web demo, please feel free to contact us at [gmedaiteam@gmail.com]
 Thank you for visiting our GitHub repository and exploring our diagnostic tool for knee osteoarthritis using MRI images with visual prompting.
