@@ -6,11 +6,6 @@ Welcome to the GitHub repository for our web demo showcasing a diagnostic tool f
 This web application is designed to assist in diagnosing knee osteoarthritis by analyzing MRI images with the help of visual prompting techniques. Our tool aims to provide accurate and efficient diagnosis for healthcare professionals and patients.
 ![image](https://github.com/user-attachments/assets/a962d797-51df-4d12-a39c-0f3f41e37a5b)
 
-## Features
-- **MRI Image Diagnosis**: Utilize advanced visual prompting techniques for diagnosing knee osteoarthritis.
-- **Google Drive Image Repository**: Access our collection of MRI images via the following link: [Google Drive Image Repository](https://drive.google.com/drive/folders/1D4e7I7IyGfB4q5mg-vrc0lrMWac6UH8H?usp=sharing).
-- **Interactive Interface**: User-friendly interface for easy navigation and usage.
-
 ## Getting Started
 To access the Google Drive image repository, click on the provided link above. For using the diagnostic tool, simply visit our web application and follow the on-screen instructions.
 
