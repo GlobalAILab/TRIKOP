@@ -14,7 +14,7 @@ To commence using the diagnostic tool, follow these steps:
 2. Log in with the following credentials:
    - **User name:** userdemo
    - **Password:** demoTRIKOP
-3. Upload a compressed MRI knee image in **.zip format** or select any image in the box below. We have also prepared some other images for you to demo, you can access them [here](https://drive.google.com/drive/folders/1D4e7I7IyGfB4q5mg-vrc0lrMWac6UH8H?usp=drive_link). A slider has been provided for viewing different MRI image slices.
+3. Upload a compressed 3D DESS MRI knee image in **.zip format** or select any image in the box below. We have also prepared some other images for you to demo, you can access them [here](https://drive.google.com/drive/folders/1D4e7I7IyGfB4q5mg-vrc0lrMWac6UH8H?usp=drive_link). A slider has been provided for viewing different MRI image slices.
 <p align="center">
 <img src="https://github.com/GlobalAILab/TRIKOP/blob/main/images/upload_image.png" alt="Upload image function" width="400">
 </p>
