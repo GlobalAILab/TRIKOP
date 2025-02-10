@@ -4,8 +4,7 @@ Welcome to the GitHub repository for our web demo showcasing a diagnostic tool f
 
 ## About
 This web application is designed to assist in diagnosing knee osteoarthritis by analyzing MRI images with the help of visual prompting techniques. Our tool aims to provide accurate and efficient diagnosis for healthcare professionals and patients.
-![image](https://github.com/user-attachments/assets/a962d797-51df-4d12-a39c-0f3f41e37a5b)
-
+<img src="https://drive.google.com/file/d/1VSpSL1WfNpaAGSeN1ddQmkzAffQWf_mN/view?usp=drive_link" alt="Login page" width="400">
 ## Getting Started
 To commence using the diagnostic tool, follow these steps:
 1. Access the [TRIKOP web application](https://trikop.gmedai.com/account/login).
