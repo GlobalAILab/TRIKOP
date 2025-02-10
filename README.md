@@ -2,7 +2,7 @@
 
 Welcome to the GitHub repository for our web demo showcasing a diagnostic tool for knee osteoarthritis using MRI images with visual prompting.
 
-## About
+## About TRIKOP
 This web application is designed to assist in diagnosing knee osteoarthritis by analyzing MRI images with the help of visual prompting techniques. Our tool aims to provide accurate and efficient diagnosis for healthcare professionals and patients.
 <p align="center">
    <img src="https://github.com/GlobalAILab/TRIKOP/blob/main/images/login_page.png" alt="Login page" width="700">
@@ -18,10 +18,12 @@ To commence using the diagnostic tool, follow these steps:
 <p align="center">
 <img src="https://github.com/GlobalAILab/TRIKOP/blob/main/images/upload_image.png" alt="Upload image function" width="400">
 </p>
+
 6. Once an image is selected, the system will generate various prompting methods along with illustrative images for each method.
 <p align="center">
 <img src="https://github.com/GlobalAILab/TRIKOP/blob/main/images/Choose_prompt_method.png" alt="Upload image function" width="400">
 </p>
+
 7. Press the "Diagnose" button with the selected prompting method, allowing the model to conduct a diagnosis and return results, including:
    - Diagnostic probabilities corresponding to each KL disease severity level.
    - An attention map displaying the baseline and visual prompting methods, enabling observation of image regions the model focuses on for decision-making (increasing redness indicates greater model attention in that region).
