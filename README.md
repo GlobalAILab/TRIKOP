@@ -32,5 +32,5 @@ To commence using the diagnostic tool, follow these steps:
 </p>
 
 ## Support
-If you have any questions, feedback, or issues related to the web demo, please feel free to contact us at [gmedaiteam@gmail.com]
+If you have any questions, feedback, or issues related to the web demo, please feel free to contact us at gmedaiteam@gmail.com
 Thank you for visiting our GitHub repository and exploring our diagnostic tool for knee osteoarthritis using MRI images with visual prompting.
